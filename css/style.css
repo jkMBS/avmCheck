@@ -1,0 +1,27 @@
+/************************** MAIN BACKGROUND ************************/
+html {
+height: 100%;
+box-sizing: border-box;
+}
+
+body {
+  background-image: url("background.png");
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+}
+
+img {
+    opacity: 0.5;
+}
+/************************* HEADER *********************************/
+
+h1{
+  text-align: center;
+  color:black;
+  font-size: 45px
+}
+
+h3{
+  text-align: center;
+  color: purple; 
+}
